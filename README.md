@@ -1,7 +1,7 @@
 Welcome to the RussLang wiki!
 
 I am collecting in this project scripts I used before while learning Russian Language . 
-I wrote some scripts to automate my learning process , and get needed tables ,
+I wrote some scripts to automate my learning process , and to get needed tables ,
 
 P.S. Samples and Explanations will be added after finishing .
 
@@ -17,9 +17,9 @@ In this project , I used :
 - Data from ru.wiktionary.org
 
 To minimize dependency on the Internet , The data are saved locally , and the connection will not 
-be established unless they are not available locally .
+be established unless they are (Data) not available locally .
 
-Statistics are used to determine the most significant words to memorize , by sorting terms in dictionaries
+Statistics are used to determine the most significant words to memorize , by sorting terms 
 by frequency descendingly .
 
 The following tables will be provided :
